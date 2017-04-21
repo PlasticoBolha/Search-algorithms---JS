@@ -1,2 +1,2 @@
-# Search-algorithms---JS
-I will store several search algorithms over time ...
+# Search Algorithms---JS
+	I wanna store several search algorithms !
